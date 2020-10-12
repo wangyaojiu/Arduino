@@ -32,8 +32,8 @@
             <li><a href="https://cdn.jsdelivr.net/gh/wangyaojiu/Arduino@1.0/%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.pdf">作品展示PDF</a></li>
             <li><a href="https://wangyaojiu.github.io/Arduino/软件源程序.docx">软件源程序</a></li>
             <li><a href="https://wangyaojiu.github.io/Arduino/测试文档.docx">测试文档</a></li>
-            <li><a href="https://wangyaojiu.github.io/硬件设计.docx">硬件设计</a></li>
-            <li><a href="https://wangyaojiu.github.io/软件使用说明书.docx">软件使用说明书</a></li>
+            <li><a href="https://wangyaojiu.github.io/Arduino/硬件设计.docx">硬件设计</a></li>
+            <li><a href="https://wangyaojiu.github.io/Arduino/软件使用说明书.docx">软件使用说明书</a></li>
                    </ul>
     </div>
 </body>
