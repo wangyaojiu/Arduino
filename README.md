@@ -34,8 +34,7 @@
             <li><a href="https://wangyaojiu.github.io/Arduino/测试文档.docx">测试文档</a></li>
             <li><a href="https://wangyaojiu.github.io/硬件设计.docx">硬件设计</a></li>
             <li><a href="https://wangyaojiu.github.io/软件使用说明书.docx">软件使用说明书</a></li>
-              
-        </ul>
+                   </ul>
     </div>
 </body>
 </html>
