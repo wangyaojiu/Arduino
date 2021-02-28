@@ -27,9 +27,9 @@
 <body>
     <div class="container">
         <h1>隐擎丨基于Arduino的智能小车</h1>
-        <h3>曾获齐鲁软件大赛三等奖</h3>
+        
         <ul>
-            <li><a href="https://cdn.jsdelivr.net/gh/wangyaojiu/Arduino@1.0/%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA.pdf">作品展示PDF</a></li>
+            <li><a href="#">作品展示PDF</a></li>
             <li><a href="https://wangyaojiu.github.io/Arduino/软件源程序.docx">软件源程序</a></li>
             <li><a href="https://wangyaojiu.github.io/Arduino/测试文档.docx">测试文档</a></li>
             <li><a href="https://wangyaojiu.github.io/Arduino/硬件设计.docx">硬件设计</a></li>
