@@ -21,7 +21,7 @@
 	    │
   └── 2021.03.05 搜集材料    
       ├── Aruino UNO 针脚作用
-	    │   │
+	       │   │
             │   ├─
             │   ├─
             │   ├─
@@ -44,7 +44,7 @@
 
 [5][ATmega8U2](https://www.hqchip.com/ic/ATMEGA8U2) :基于AVR的低功耗8位CMOS微控制器增强的RISC架构
 
-[参考资料](https://www.hqchip.com/ic/ATMEGA8U2)/
+[参考资料 /](https://www.hqchip.com/ic/ATMEGA8U2)
 [英文PFD](https://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf)
 
 [6]ATmega328P:为Aruino UNO R3系列的控制器
