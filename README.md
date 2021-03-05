@@ -1,4 +1,4 @@
-## 基于Ardunio的火焰监测报警系统设计
+## 《基于Ardunio的火焰监测报警系统设计》
 
 
 
@@ -18,9 +18,9 @@
             │   ├─认识UNO[4]
             │   ├─ATmega8U2[5]
             │   └─ATmega328P[6]
-	    │ 
-     └── 2021.03.05 搜集材料    
-        ├── Aruino UNO 针脚作用
+	    │
+  └── 2021.03.05 搜集材料    
+      ├── Aruino UNO 针脚作用
 	    │   │
             │   ├─
             │   ├─
@@ -39,17 +39,21 @@
 [3][PWM脉冲宽度调制](https://zh.wikipedia.org/wiki/%E8%84%88%E8%A1%9D%E5%AF%AC%E5%BA%A6%E8%AA%BF%E8%AE%8A)
 
 [4]认识UNO
+
 ![](https://sites.google.com/a/cdjh.ylc.edu.tw/arduino/_/rsrc/1468852205376/home/uno-r3/UNO-R3-Pin.JPG)
 
 [5][ATmega8U2](https://www.hqchip.com/ic/ATMEGA8U2) :基于AVR的低功耗8位CMOS微控制器增强的RISC架构
 
-[参考资料](https://www.hqchip.com/ic/ATMEGA8U2)
+[参考资料](https://www.hqchip.com/ic/ATMEGA8U2)/
 [英文PFD](https://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf)
 
 [6]ATmega328P:为Aruino UNO R3系列的控制器
 ![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-3.png)
+
 ![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-4-768x362.png)
+
 ![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-1.png)
+
 ![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-2-300x297.png)
 
 
