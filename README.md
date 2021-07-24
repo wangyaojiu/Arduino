@@ -31,8 +31,8 @@
             │   └─
 	 
 	        │ 
-            ├──   2021.06.17 优秀毕业论文哈哈哈
-	          [《基于Ardunio的火焰监测报警系统设计》](https://cdn.musiccc.cn/基于Ardunio的火焰监测报警系统设计.docx)
+            ├──   2021.06.17 优秀毕业论文哈哈哈，感谢指导老师感谢系主任感谢母校
+	          [基于Ardunio的火焰监测报警系统设计](https://cdn.musiccc.cn/基于Ardunio的火焰监测报警系统设计.docx)
 	    │   │
 	    
 
