@@ -26,21 +26,18 @@
 	    │   │
             │   ├─针脚
             │   ├─
-            │   ├─
-            │   ├─
-            │   └─
-	 
-	        │ 
-            ├──   2021.06.17 优秀毕业论文哈哈哈，感谢指导老师感谢系主任感谢母校
-	          
-	    │   │
+            │   ├─ 2021.05 论文撰写 相关参考资料上传到项目里了 希望对正在搜资料的你有用
+            │   ├─ 2021.05.25 答辩完成 感谢系张主任
+
+            ├──   2021.06.17 优秀毕业论文哈哈哈，感恩张凤荣老师感谢系张主任 感谢大哥和老吴
+
 	    
 
 
 注释:
-[0]
 
-[基于Ardunio的火焰监测报警系统设计](https://github.com/wangyaojiu/Arduino/基于Ardunio的火焰监测报警系统设计.docx)
+
+[0][基于Ardunio的火焰监测报警系统设计](https://wangyaojiu.github.io/Arduino/%E5%9F%BA%E4%BA%8EArdunio%E7%9A%84%E7%81%AB%E7%84%B0%E7%9B%91%E6%B5%8B%E6%8A%A5%E8%AD%A6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.docx)
 
 [1] [开题报告](https://github.com/wangyaojiu/Arduino/blob/main/2021%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E4%BB%BB%E5%8A%A1%E4%B9%A6%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A.docx?raw=true)
 
@@ -57,14 +54,7 @@
 [参考资料 /](https://www.hqchip.com/ic/ATMEGA8U2)
 [英文PFD](https://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf)
 
-[6]ATmega328P:为Aruino UNO R3系列的控制器
-![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-3.png)
 
-![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-4-768x362.png)
-
-![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-1.png)
-
-![](https://blog-upload.wang19.cn/wp-content/uploads/2021/03/image-2-300x297.png)
 
 
 
